@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=200&section=header&text=YUBIN&fontSize=90)   
 
-# Hello! It's me Yubin and this is my github!
+# yubin's github
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyubin989)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **What I learned**
